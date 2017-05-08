@@ -1,0 +1,55 @@
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.exe
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.Form1.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.SetDb.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.setting.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.verifikasi.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Debug\setting.ini
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.exe.manifest
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.application
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.exe
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.pdb
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.xml
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.Resources.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.exe.manifest
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.application
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.xml
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.pdb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.Form1.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.hapus.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.Resources.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.SetDb.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.setting.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.struk.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.verifikasi.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.verifikasidepo.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\setting.ini
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.exe.config
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.exe.manifest
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.application
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.exe
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.pdb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.xml
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.TrustInfo.xml
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.exe.manifest
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.application
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.exe
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.xml
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.pdb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalReport1.rpt
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalReport1.vb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DataSet1.Designer.vb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DataSet1.vb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\app.config
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DataSet1.xsc
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DataSet1.xsd
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DataSet1.xss
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalDecisions.Shared.dll
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalDecisions.Windows.Forms.dll

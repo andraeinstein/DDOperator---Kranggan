@@ -1,0 +1,213 @@
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalReport1.rpt
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalReport2.rpt
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalReport3.rpt
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalReport1.vb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalReport2.vb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalReport3.vb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DataSet1.Designer.vb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DataSet1.vb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\app.config
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DataSet1.xsc
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DataSet1.xsd
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DataSet1.xss
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\setting.ini
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Resources\black-and-white-abstract1.png
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Resources\light-grey-abstract-2.jpg
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DDCounter Operator.exe.config
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DDCounter Operator.exe.manifest
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DDCounter Operator.application
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DDCounter Operator.exe
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DDCounter Operator.pdb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\DDCounter Operator.xml
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalDecisions.Shared.dll
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\MySql.Data.dll
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.Form1.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmPrefix.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmStrukPulsa.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.hapus.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.informasi.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.kunciserver.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.Resources.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.SetDb.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.setting.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.SettingPwd.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.struk.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.strukdepo.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.strukvoucher.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.verifikasi.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.verifikasidepo.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.TrustInfo.xml
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.exe.manifest
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.application
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.exe
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.xml
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.pdb
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\CrystalReport1.rpt
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\CrystalReport2.rpt
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\CrystalReport3.rpt
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\CrystalReport1.vb
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\CrystalReport2.vb
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\CrystalReport3.vb
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DataSet1.Designer.vb
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DataSet1.vb
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\app.config
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DataSet1.xsc
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DataSet1.xsd
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DataSet1.xss
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\setting.ini
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\Resources\black-and-white-abstract1.png
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\Resources\light-grey-abstract-2.jpg
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DDCounter Operator.exe.config
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DDCounter Operator.exe.manifest
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DDCounter Operator.application
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DDCounter Operator.exe
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DDCounter Operator.pdb
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\DDCounter Operator.xml
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\CrystalDecisions.Shared.dll
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\bin\Debug\MySql.Data.dll
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.Form1.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmdenom.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmjualvoucher.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmoperator.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmPrefix.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmsettingdenom.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmStrukPulsa.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.hapus.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.informasi.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.kunciserver.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.Resources.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.SetDb.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.setting.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.SettingPwd.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.struk.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.strukdepo.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.strukvoucher.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.verifikasi.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.verifikasidepo.resources
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.TrustInfo.xml
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.exe.manifest
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.application
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.exe
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.xml
+F:\Project Andra\Prefix dan Harga - Kertas Fax\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.pdb
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\CrystalReport1.rpt
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\CrystalReport2.rpt
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\CrystalReport3.rpt
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\CrystalReport1.vb
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\CrystalReport2.vb
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\CrystalReport3.vb
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DataSet1.Designer.vb
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DataSet1.vb
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\app.config
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DataSet1.xsc
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DataSet1.xsd
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DataSet1.xss
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\setting.ini
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\Resources\black-and-white-abstract1.png
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\Resources\light-grey-abstract-2.jpg
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DDCounter Operator.exe.config
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DDCounter Operator.exe.manifest
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DDCounter Operator.application
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DDCounter Operator.exe
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DDCounter Operator.pdb
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\DDCounter Operator.xml
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\CrystalDecisions.Shared.dll
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Project Andra\DDOperator\Prefix dan Harga\bin\Debug\MySql.Data.dll
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.Form1.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmdenom.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmjualvoucher.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmoperator.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmPrefix.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmsettingdenom.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmStrukPulsa.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.hapus.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.informasi.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.kunciserver.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.Resources.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.SetDb.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.setting.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.SettingPwd.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.struk.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.strukdepo.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.strukvoucher.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.verifikasi.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.verifikasidepo.resources
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.TrustInfo.xml
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.exe.manifest
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.application
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.exe
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.xml
+F:\Project Andra\DDOperator\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.pdb
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\CrystalReport1.rpt
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\CrystalReport2.rpt
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\CrystalReport3.rpt
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\CrystalReport1.vb
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\CrystalReport2.vb
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\CrystalReport3.vb
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DataSet1.Designer.vb
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DataSet1.vb
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\app.config
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DataSet1.xsc
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DataSet1.xsd
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DataSet1.xss
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\setting.ini
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\Resources\black-and-white-abstract1.png
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\Resources\light-grey-abstract-2.jpg
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DDCounter Operator.exe.config
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DDCounter Operator.exe.manifest
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DDCounter Operator.application
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DDCounter Operator.exe
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DDCounter Operator.pdb
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\DDCounter Operator.xml
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\CrystalDecisions.Shared.dll
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\bin\Debug\MySql.Data.dll
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.Form1.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmdenom.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmjualvoucher.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmoperator.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmPrefix.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmsettingdenom.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.frmStrukPulsa.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.FrmUser.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.hapus.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.informasi.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.kunciserver.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.Resources.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.SetDb.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.setting.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.SettingPwd.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.struk.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.strukdepo.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.strukvoucher.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.verifikasi.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter_Operator.verifikasidepo.resources
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.TrustInfo.xml
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.exe.manifest
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.application
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.exe
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.xml
+F:\Project Andra\DDOperator - Kranggan\Prefix dan Harga\obj\x86\Debug\DDCounter Operator.pdb

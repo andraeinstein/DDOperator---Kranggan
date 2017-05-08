@@ -1,0 +1,59 @@
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.exe
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.pdb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.xml
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.Form1.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.Resources.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.exe
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.xml
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.pdb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.setting.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.exe.manifest
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\Prefix dan Harga.application
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.exe.manifest
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix dan Harga.application
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.SetDb.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Debug\setting.ini
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Debug\Prefix_dan_Harga.verifikasi.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.Form1.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.SetDb.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.setting.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.verifikasi.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.xml
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.pdb
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Release\setting.ini
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Release\Prefix dan Harga.exe.manifest
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Release\Prefix dan Harga.application
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Release\Prefix dan Harga.exe
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Release\Prefix dan Harga.pdb
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\bin\Release\Prefix dan Harga.xml
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.Resources.resources
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.exe.manifest
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.application
+C:\Documents and Settings\Ahtefe DD\My Documents\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.exe
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Release\setting.ini
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Release\Prefix dan Harga.exe.manifest
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Release\Prefix dan Harga.application
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Release\Prefix dan Harga.exe
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Release\Prefix dan Harga.pdb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\bin\Release\Prefix dan Harga.xml
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.Form1.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.Resources.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.SetDb.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.setting.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.verifikasi.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.exe.manifest
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.application
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.exe
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.xml
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.pdb
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix_dan_Harga.verifikasidepo.resources
+F:\Project Andra\Prefix dan Harga\Prefix dan Harga\obj\x86\Release\Prefix dan Harga.TrustInfo.xml
